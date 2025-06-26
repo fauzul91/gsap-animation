@@ -47,8 +47,8 @@ Make sure you have the following installed on your machine:
 
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter.git
-cd gsap-cc-starter
+git clone https://github.com/fauzul91/gsap-animation.git
+cd gsap-animation
 ```
 
 
